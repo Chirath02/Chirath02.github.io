@@ -63,10 +63,11 @@ section h2 {
 }
 
 .btn-social {
-  width: 3.25rem;
-  height: 3.25rem;
+  /*width: 3.25rem;*/
+  /*height: 3.25rem;*/
   font-size: 1.25rem;
   line-height: 2rem;
+    padding: 0 0.8em;
 }
 
 .scroll-to-top {
@@ -317,7 +318,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2C3E50;
+  background-color: #2d2d2d;
   color: #fff;
 }
 
