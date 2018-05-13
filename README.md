@@ -6,4 +6,4 @@ Blog: [chirathr.wordpress.com](https://chirathr.wordpress.com/)
 
 ## Sreenshot
 
-![](img/Screenshot1.png)
+![](img/portifolio.png)
