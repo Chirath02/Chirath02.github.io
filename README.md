@@ -1,9 +1,9 @@
 # Portfolio
 
-Link: [chirath02.github.io](https://chirath02.github.io/)
+Link: [https://chirathr.com/](https://chirathr.com/)
 
-Blog: [chirathr.wordpress.com](https://chirathr.wordpress.com/)
+Blog: [https://blog.chirathr.com/](https://chirathr.com/)
 
 ## Sreenshot
 
-![](img/portifolio.png)
+![Chirath R](img/portifolio.png)
